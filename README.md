@@ -6,9 +6,9 @@ Cube Chase Mobile is a simple mobile game that challenges the player
 to tap the target cubes for the best time. It features multiple
 levels of difficulty.
 
-![App Screenshot](./CubeChase/screenshots/level_one_ready.png "App Screenshot")
-![Level 1 Screenshot](./CubeChase/screenshots/level_one_game.png "Level 1 Screenshot")
-![Level 2 Screenshot](./CubeChase/screenshots/level_two_game.png "Level 2 Screenshot")
+![App Screenshot](./screenshots/level_one_ready.png "App Screenshot")
+![Level 1 Screenshot](./screenshots/level_one_game.png "Level 1 Screenshot")
+![Level 2 Screenshot](./screenshots/level_two_game.png "Level 2 Screenshot")
 
 ## Build Requirements
 
